@@ -1,0 +1,232 @@
+* {
+  margin: 0 auto;
+  font-family: OpenSans, sans-serif;
+  letter-spacing: 2px;
+  line-height: 30px;
+}
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 100px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.heart {
+  padding-left: 40px;
+  border-right: 1px solid white;
+  padding-right: 15px;
+  margin-right: 15px;
+}
+.nav-bar {
+  height: 40px;
+  margin: 0 auto;
+  padding: 10px 150px 0 150px;
+  vertical-align: middle;
+}
+
+.top-left {
+  display: inline-block;
+  vertical-align: middle;
+}
+.top-right {
+  display: inline-block;
+  float: right;
+  margin: 0 20px 0 0;
+}
+
+.top-right li {
+  display: inline-block;
+  margin: 0 10px;
+  text-align: center;
+}
+
+.search-box {
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.searchTerm {
+  display: inline-block;
+  width: 54%;
+  line-height: 40px;
+  background-color: #E6E6E6;
+  border-radius: 5px;
+  border-style: none;
+  font-size: 16px;
+  margin-bottom: 10px;
+  margin-right: 13px;
+  padding: 10px 0px;
+}
+
+.user-login {
+  text-decoration: none;
+  color: #565656;
+  margin: 0 5px;
+}
+
+.sign-up {
+  padding-right: 96px;
+}
+
+.header-text {
+  background: url(file:///Users/hannah1/Downloads/lab-html-module-exercise-master%203/starter-code/images/city-scape.svg) 0 0 no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 550px; 
+  margin: 0 auto;
+  float: right;
+}
+
+h1 {
+  font-weight: normal;
+  letter-spacing: 2px;
+  font-size: 42px;
+  padding-bottom: 45px;
+}
+
+.header-info {
+  width: 33%;
+  color: white;
+  float: left;
+  padding: 160px 60px 30px 60px;
+}
+
+button {
+  display: inline-block;
+  background-color: #FFA73D;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  padding: 5px;
+  margin-top: 35px;
+  border-radius: 25px;
+  width: 75%;
+  border-style: none;
+}
+
+#npm-orgs {
+  display: block;
+  margin: 0 auto;
+  padding: 150px 150px 0px 150px;
+  background-color: rgb(39, 53, 71);
+  background-size: cover;
+  color: white;
+}
+
+.image-two {
+  margin: 500px 600px 0 0;
+  float: none;
+  position: absolute;
+}
+
+.float-right {
+  float: right;
+  padding-left: 650px;
+  padding-top: 0px;
+  margin: 5% 0;
+}
+
+.header-two {
+  font-size: 38px;
+  line-height: 50px;
+  padding-bottom: 20px;
+}
+
+#npm-orgs.li {
+  font-size: 16px;
+  width: 13%;
+  padding-bottom: 1px;
+}
+
+#npm-orgs button {
+  background-color: rgb(203, 56, 55);
+  width: 70%;
+  margin-left: 60px;
+  padding: 5px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.link-two {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  padding: 20px 130px 0 0;
+  margin-top: 3px;
+}
+
+#what-is-npm {
+  background: url(file:///Users/hannah1/Downloads/lab-html-module-exercise-master%203/starter-code/images/forklift.svg);
+  background-size: cover;
+  height: 550px;
+  position: relative;
+}
+
+.section-two-text {
+  position: absolute;
+  width: 28%;
+  color: white;
+  padding: 130px 150px 100px 200px;
+}
+
+#what-is-npm button {
+  width: 30%;
+  margin-top: 7px;
+  background-color: rgb(49, 68, 88);
+}
+
+.section-three {
+  text-align: center;
+  text-decoration: none;
+  color: rgb(83, 88, 98);
+}
+
+h3 {
+  font-size: 38px;
+  margin-top: 50px;
+  font-weight: normal;
+  letter-spacing: 1px;
+}
+
+#what-can-you-make p {
+  padding-top: 25px;
+}
+
+.section-three-logos {
+  width: 15%;
+  text-align: center;
+  float: left;
+  padding: 50px 0 30px 100px;
+  margin-left: 95px;
+}
+
+#what-can-you-make p {
+  line-height: 30px;
+  letter-spacing: 1px;
+}
+
+.npmLogo {
+  float: left;
+    padding: 22px 0px 0 230px;
+    width: 7%;
+    height: auto;
+}
+
+.highFive {
+  height: auto;
+  width: 550px;
+  margin-bottom: 0px;
+}
+
+#section-three-bold b {
+  color: rgb(208, 74, 73);
+}
